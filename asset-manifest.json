@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/proyectofinalweb-grupo27/static/css/main.75fe4657.chunk.css",
-    "main.js": "/proyectofinalweb-grupo27/static/js/main.03c21f16.chunk.js",
-    "main.js.map": "/proyectofinalweb-grupo27/static/js/main.03c21f16.chunk.js.map",
+    "main.js": "/proyectofinalweb-grupo27/static/js/main.b56f26cb.chunk.js",
+    "main.js.map": "/proyectofinalweb-grupo27/static/js/main.b56f26cb.chunk.js.map",
     "runtime-main.js": "/proyectofinalweb-grupo27/static/js/runtime-main.6b7e3777.js",
     "runtime-main.js.map": "/proyectofinalweb-grupo27/static/js/runtime-main.6b7e3777.js.map",
     "static/css/2.58a45539.chunk.css": "/proyectofinalweb-grupo27/static/css/2.58a45539.chunk.css",
-    "static/js/2.1f797dc3.chunk.js": "/proyectofinalweb-grupo27/static/js/2.1f797dc3.chunk.js",
-    "static/js/2.1f797dc3.chunk.js.map": "/proyectofinalweb-grupo27/static/js/2.1f797dc3.chunk.js.map",
+    "static/js/2.315e5edd.chunk.js": "/proyectofinalweb-grupo27/static/js/2.315e5edd.chunk.js",
+    "static/js/2.315e5edd.chunk.js.map": "/proyectofinalweb-grupo27/static/js/2.315e5edd.chunk.js.map",
     "index.html": "/proyectofinalweb-grupo27/index.html",
     "static/css/2.58a45539.chunk.css.map": "/proyectofinalweb-grupo27/static/css/2.58a45539.chunk.css.map",
     "static/css/main.75fe4657.chunk.css.map": "/proyectofinalweb-grupo27/static/css/main.75fe4657.chunk.css.map",
-    "static/js/2.1f797dc3.chunk.js.LICENSE.txt": "/proyectofinalweb-grupo27/static/js/2.1f797dc3.chunk.js.LICENSE.txt"
+    "static/js/2.315e5edd.chunk.js.LICENSE.txt": "/proyectofinalweb-grupo27/static/js/2.315e5edd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b7e3777.js",
     "static/css/2.58a45539.chunk.css",
-    "static/js/2.1f797dc3.chunk.js",
+    "static/js/2.315e5edd.chunk.js",
     "static/css/main.75fe4657.chunk.css",
-    "static/js/main.03c21f16.chunk.js"
+    "static/js/main.b56f26cb.chunk.js"
   ]
 }
